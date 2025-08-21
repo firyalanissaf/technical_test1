@@ -81,16 +81,16 @@ This project analyzes user transaction patterns, card usage, credit score distri
 ---
 
 ## 📎 File Structure
-dataset/
-   cards_data.csv
-   transactions_data.csv
-   users_data.csv
-notebook/
-   analysis.sql
-output/
-   slide.pdf
-technical_test1/
-README.md
+- dataset/
+  - cards_data.csv
+  - transactions_data.csv
+  - users_data.csv
+- notebook/
+  - analysis.sql
+- output/
+  - slide.pdf
+- technical_test1/
+- README.md
 
 ---
 
