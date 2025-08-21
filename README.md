@@ -89,7 +89,6 @@ This project analyzes user transaction patterns, card usage, credit score distri
   - analysis.sql
 - output/
   - slide.pdf
-- technical_test1/
 - README.md
 
 ---
