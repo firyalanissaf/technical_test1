@@ -84,15 +84,15 @@ This project analyzes user transaction patterns, card usage, credit score distri
 project-folder/
 │
 ├── dataset/
-│ ├── users_data.csv
-│ ├── cards_data.csv
-│ └── transactions_data.csv
+│   ├── users_data.csv
+│   ├── cards_data.csv
+│   └── transactions_data.csv
 │
 ├── notebooks/
-│ └── analysis.ipynb
+│   └── analysis.ipynb
 │
 ├── outputs/
-│ └── report.pdf # (optional)
+│   └── report.pdf
 │
 └── README.md
 
