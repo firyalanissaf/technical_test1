@@ -91,6 +91,11 @@ This project analyzes user transaction patterns, card usage, credit score distri
   - slide.pdf
 - README.md
 
+## 📊 Dashboard
+
+View the full interactive dashboard on Looker Studio:  
+[🔗 Open Dashboard](https://lookerstudio.google.com/reporting/64fe3806-a104-46ed-b193-fde5c5527d72)
+
 ---
 
 ## ✅ Recommendations
